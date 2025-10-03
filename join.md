@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Join Us
+nav_order: 4
 ---
 
 # 🙌 Join the Reading Group

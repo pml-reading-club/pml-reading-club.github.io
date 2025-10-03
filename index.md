@@ -1,6 +1,9 @@
-# Probabilistic ML: Advanced Topics Reading Group
+---
+title: Home
+nav_order: 1
+---
 
-[Home](/) | [Schedule](schedule.md) | [Resources](resources.md) | [Join Us](join.md)
+# Probabilistic ML: Advanced Topics Reading Group
 
 Welcome! This is a community-led reading group exploring *Probabilistic Machine Learning: Advanced Topics* by Kevin Murphy.
 
@@ -11,15 +14,6 @@ We aim to create a supportive space for researchers, students, and practitioners
 
 ---
 
-## 📅 Schedule
-
-| Date       | Topic / Chapter                      | Presenter | Slides/Recording |
-|------------|---------------------------------------|-----------|------------------|
-| Oct 10     | Intro + Ch. 1 Overview                | Alice     | [slides]()       |
-| Oct 17     | Variational Inference (Ch. 10)        | Bob       | [video]()        |
-| Oct 24     | Monte Carlo Methods (Ch. 11)          | Carol     | [slides]()       |
-
----
 
 ## 🔗 Links
 - [GitHub Repo](https://github.com/pml-reading-group)  
