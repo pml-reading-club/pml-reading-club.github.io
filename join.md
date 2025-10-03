@@ -15,3 +15,4 @@ We welcome anyone interested in probabilistic ML!
 - Join our [Slack](https://...)  
 - Subscribe to our [Mailing List](https://...)  
 - Check out the [GitHub repo](https://github.com/...)  
+---

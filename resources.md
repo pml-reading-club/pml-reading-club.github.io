@@ -11,3 +11,4 @@ Here you’ll find slides, recordings, and notes from previous sessions.
 |--------|--------------------------|-----------|-----------|
 | Oct 10 | Intro + Ch. 1 Overview  | Alice     | [slides]() [video]() |
 | Oct 17 | Variational Inference   | Bob       | [slides]() [video]() |
+---
