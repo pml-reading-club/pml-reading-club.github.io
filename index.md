@@ -1,5 +1,7 @@
 # Probabilistic ML: Advanced Topics Reading Group
 
+[Home](/) | [Schedule](schedule.md) | [Resources](resources.md) | [Join Us](join.md)
+
 Welcome! This is a community-led reading group exploring *Probabilistic Machine Learning: Advanced Topics* by Kevin Murphy.
 
 ---
