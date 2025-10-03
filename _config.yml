@@ -1,0 +1,11 @@
+title: "Probabilistic ML Reading Group"
+description: "Exploring *Probabilistic Machine Learning: Advanced Topics* together."
+theme: just-the-docs
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation structure
+nav_order: 1
