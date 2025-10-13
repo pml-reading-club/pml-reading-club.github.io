@@ -32,7 +32,7 @@ Stay updated with weekly digests and session reminders:
 ### GitHub
 Contribute to our materials, suggest improvements, or report issues:
 
-[Visit GitHub →](https://github.com/...){: .btn }
+[Visit GitHub →](https://github.com/pml-reading-club){: .btn }
 
 ---
 
@@ -50,7 +50,7 @@ We're always looking for presenters! Whether you want to cover a book chapter, s
 [Submit Talk Proposal →](https://forms.gle/...){: .btn .btn-green }
 
 {: .highlight }
-**First-time presenters are especially encouraged!** We provide mentorship and support to help you prepare.
+**First-time presenters are especially encouraged!** We provide support.
 
 ---
 
@@ -60,7 +60,6 @@ We're always looking for presenters! Whether you want to cover a book chapter, s
 2. **Ask Questions** - No question is too basic or too advanced
 3. **Share Resources** - Found something useful? Share it with the group
 4. **Present** - Share your knowledge or lead a discussion
-5. **Contribute** - Help improve our materials on GitHub
 
 {: .note }
 > All sessions are recorded and shared for those who can't attend live. However, live participation is encouraged for better interaction!
@@ -69,4 +68,4 @@ We're always looking for presenters! Whether you want to cover a book chapter, s
 
 ## 🤝 Code of Conduct
 
-We are committed to providing a welcoming and inclusive environment. Please be respectful, considerate, and collaborative. See our full [Code of Conduct](https://github.com/...) for details.
+We are committed to providing a welcoming and inclusive environment. Please be respectful, considerate, and collaborative. 

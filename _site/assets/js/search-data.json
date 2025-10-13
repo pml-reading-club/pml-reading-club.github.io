@@ -57,21 +57,21 @@
   },"8": {
     "doc": "Join Us",
     "title": "🎤 Suggest a Talk",
-    "content": "We’re always looking for presenters! Whether you want to cover a book chapter, share your research, or discuss a related paper, we’d love to hear from you. Topics we’re interested in: . | Chapters from PML: Advanced Topics | Related research papers | Applications of probabilistic ML | Implementation tutorials | Your research projects | . Submit Talk Proposal → . First-time presenters are especially encouraged! We provide mentorship and support to help you prepare. ",
+    "content": "We’re always looking for presenters! Whether you want to cover a book chapter, share your research, or discuss a related paper, we’d love to hear from you. Topics we’re interested in: . | Chapters from PML: Advanced Topics | Related research papers | Applications of probabilistic ML | Implementation tutorials | Your research projects | . Submit Talk Proposal → . First-time presenters are especially encouraged! We provide support. ",
     "url": "/join.html#-suggest-a-talk",
     
     "relUrl": "/join.html#-suggest-a-talk"
   },"9": {
     "doc": "Join Us",
     "title": "📋 How to Participate",
-    "content": ". | Attend Sessions - Join our weekly meetings (see schedule) | Ask Questions - No question is too basic or too advanced | Share Resources - Found something useful? Share it with the group | Present - Share your knowledge or lead a discussion | Contribute - Help improve our materials on GitHub | . All sessions are recorded and shared for those who can’t attend live. However, live participation is encouraged for better interaction! . ",
+    "content": ". | Attend Sessions - Join our weekly meetings (see schedule) | Ask Questions - No question is too basic or too advanced | Share Resources - Found something useful? Share it with the group | Present - Share your knowledge or lead a discussion | . All sessions are recorded and shared for those who can’t attend live. However, live participation is encouraged for better interaction! . ",
     "url": "/join.html#-how-to-participate",
     
     "relUrl": "/join.html#-how-to-participate"
   },"10": {
     "doc": "Join Us",
     "title": "🤝 Code of Conduct",
-    "content": "We are committed to providing a welcoming and inclusive environment. Please be respectful, considerate, and collaborative. See our full Code of Conduct for details. ",
+    "content": "We are committed to providing a welcoming and inclusive environment. Please be respectful, considerate, and collaborative. ",
     "url": "/join.html#-code-of-conduct",
     
     "relUrl": "/join.html#-code-of-conduct"
@@ -92,31 +92,31 @@
   },"13": {
     "doc": "Resources",
     "title": "Table of Contents",
-    "content": ". | Previous Sessions | Additional Resources . | 📖 Book &amp; Official Materials | 🎓 Related Courses | 💻 Code &amp; Implementations | . | 📚 Resources (Past Talks) | . ",
+    "content": ". | Previous Sessions | Additional Resources . | 📖 Book &amp; Official Materials | . | Have a useful resource to share? Open an issue or PR on our GitHub repository! | . ",
     "url": "/resources.html#table-of-contents",
     
     "relUrl": "/resources.html#table-of-contents"
   },"14": {
     "doc": "Resources",
     "title": "Previous Sessions",
-    "content": "All materials from past reading group sessions are available below: . | Date | Topic | Presenter | Materials | . | Oct 10 | Intro + Ch. 1 Overview | Alice | 📊 slides · 🎥 video · 📝 notes | . | Oct 17 | Variational Inference (Ch. 10) | Bob | 📊 slides · 🎥 video | . ",
+    "content": "All materials from past reading group sessions are available in our YouTube channel. They are also in greater detail below: . | Date | Topic | Presenter | Materials | . | Oct 10 | Intro + Ch. 1 Overview | Alice | 📊 slides · 🎥 video | . | Oct 17 | Variational Inference (Ch. 10) | Bob | 📊 slides · 🎥 video | . ",
     "url": "/resources.html#previous-sessions",
     
     "relUrl": "/resources.html#previous-sessions"
   },"15": {
     "doc": "Resources",
     "title": "Additional Resources",
-    "content": "📖 Book &amp; Official Materials . | Probabilistic Machine Learning: Advanced Topics - Official book website | Book GitHub Repository - Code examples and supplements | Murphy’s YouTube Channel - Author’s lectures | . 🎓 Related Courses . | Probabilistic Machine Learning (MIT) | Bayesian Methods for Machine Learning (Coursera) | . 💻 Code &amp; Implementations . | JAX examples | PyTorch implementations | . Have a useful resource to share? Open an issue or PR on our GitHub repository!ources nav_order: 3 — . ",
+    "content": "📖 Book &amp; Official Materials . | Probabilistic Machine Learning: Advanced Topics - Official book website | Book GitHub Repository - Code examples and supplements | Murphy’s Webpage - Author’s webpage | . ",
     "url": "/resources.html#additional-resources",
     
     "relUrl": "/resources.html#additional-resources"
   },"16": {
     "doc": "Resources",
-    "title": "📚 Resources (Past Talks)",
-    "content": "Here you’ll find slides, recordings, and notes from previous sessions. | Date | Topic | Presenter | Resources |——–|————————–|———–|———–| Oct 10 | Intro + Ch. 1 Overview | Alice | slides video | Oct 17 | Variational Inference | Bob | slides video | — . ",
-    "url": "/resources.html#-resources-past-talks",
+    "title": "Have a useful resource to share? Open an issue or PR on our GitHub repository!",
+    "content": " ",
+    "url": "/resources.html#have-a-useful-resource-to-share-open-an-issue-or-pr-on-our-github-repository",
     
-    "relUrl": "/resources.html#-resources-past-talks"
+    "relUrl": "/resources.html#have-a-useful-resource-to-share-open-an-issue-or-pr-on-our-github-repository"
   },"17": {
     "doc": "Resources",
     "title": "Resources",
