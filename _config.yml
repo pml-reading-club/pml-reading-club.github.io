@@ -1,10 +1,50 @@
 title: "Probabilistic ML Reading Group"
 description: "Exploring *Probabilistic Machine Learning: Advanced Topics* together."
 remote_theme: just-the-docs/just-the-docs
+
+# Logo - use relative path without leading slash for GitHub Pages compatibility
+logo: "assets/images/book-cover.jpg"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+# Theme Customization
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Footer
+footer_content: "Copyright &copy; 2025 Probabilistic ML Reading Group. Distributed under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0 License</a>."
+
+# Callouts
+callouts_level: loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Aux links
+aux_links:
+  "GitHub":
+    - "https://github.com/pml-reading-club"
+  "Slack":
+    - "#"
+
+# Custom CSS (relative to /assets/css/)
+aux_links_new_tab: false
 
 # Navigation structure
 nav_order: 1
