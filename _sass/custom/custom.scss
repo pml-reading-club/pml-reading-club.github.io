@@ -1,18 +1,21 @@
 // Custom Styles for PML Reading Group
 
-// Make sidebar a bit narrower but not too thin - with max-width constraint
+// Make sidebar narrower - with max-width constraint
 .side-bar {
-  width: 240px !important;
-  max-width: 240px !important;
+  width: 200px !important;
+  max-width: 200px !important;
+  min-width: 200px !important;
   
   @include mq(md) {
-    width: 240px !important;
-    max-width: 240px !important;
+    width: 200px !important;
+    max-width: 200px !important;
+    min-width: 200px !important;
   }
   
   @include mq(lg) {
-    width: 250px !important;
-    max-width: 250px !important;
+    width: 220px !important;
+    max-width: 220px !important;
+    min-width: 220px !important;
   }
   
   // Prevent images from expanding the sidebar
@@ -25,13 +28,13 @@
 // Adjust main content to account for narrower sidebar
 .main {
   @include mq(md) {
-    margin-left: 240px !important;
-    max-width: calc(100% - 240px) !important;
+    margin-left: 200px !important;
+    max-width: calc(100% - 200px) !important;
   }
   
   @include mq(lg) {
-    margin-left: 250px !important;
-    max-width: calc(100% - 250px) !important;
+    margin-left: 220px !important;
+    max-width: calc(100% - 220px) !important;
   }
 }
 
