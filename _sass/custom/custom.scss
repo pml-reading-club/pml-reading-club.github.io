@@ -1,15 +1,24 @@
 // Custom Styles for PML Reading Group
 
-// Make sidebar a bit narrower but not too thin
+// Make sidebar a bit narrower but not too thin - with max-width constraint
 .side-bar {
   width: 240px !important;
+  max-width: 240px !important;
   
   @include mq(md) {
     width: 240px !important;
+    max-width: 240px !important;
   }
   
   @include mq(lg) {
     width: 250px !important;
+    max-width: 250px !important;
+  }
+  
+  // Prevent images from expanding the sidebar
+  img {
+    max-width: 100% !important;
+    height: auto !important;
   }
 }
 
