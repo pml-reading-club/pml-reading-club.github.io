@@ -6,7 +6,7 @@ nav_order: 1
 # Probabilistic ML: Advanced Topics Reading Group
 {: .fs-9 }
 
-A community-led reading group exploring *Probabilistic Machine Learning: Advanced Topics* by Kevin Murphy.
+A reading group exploring *Probabilistic Machine Learning: Advanced Topics* by Kevin Murphy.
 {: .fs-6 .fw-300 }
 
 [Join Us](/join){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -47,6 +47,10 @@ We aim to create a **supportive space** for researchers, students, and practitio
 
 ## 🙌 About Us
 
-**Organizers:** Alice, Bob, Carol
+**Organizers:** 
+- [David Ríos Insua](https://www.davidriosinsua.es)
+- [Pablo García Arce](https://pablogarciarce.github.io)
+- [Daniel Corrales Alonso](https://danielcorralesalonso.github.io/#contact)
+- [Mario Chacón Falcón](https://mchacon28.github.io)
 
 We welcome participants of all levels — from beginners to experts in probabilistic machine learning. Join our community to learn, share, and grow together!
