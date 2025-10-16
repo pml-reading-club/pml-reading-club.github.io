@@ -19,10 +19,10 @@ We welcome anyone interested in probabilistic ML — regardless of your experien
 
 ## 💬 Connect With Us
 
-### Slack Community
-Join our active Slack workspace for discussions, questions, and announcements:
+### Discord Community
+Join our active Discord workspace for discussions, questions, and announcements:
 
-[Join Slack →](https://...){: .btn .btn-purple }
+[Join Discord →](https://discord.gg/H9ghwuuF){: .btn .btn-purple }
 
 ### Mailing List
 Stay updated with weekly digests and session reminders:
