@@ -20,8 +20,9 @@ All materials from past reading group sessions are available in our [YouTube cha
 
 | Date   | Topic                          | Presenter | Materials |
 |--------|--------------------------------|-----------|-----------|
-| Oct 10 | Intro + Ch. 1 Overview         | Alice     | [📊 slides]() · [🎥 video]() |
-| Oct 17 | Variational Inference (Ch. 10) | Bob       | [📊 slides]() · [🎥 video]() |
+| ****** | ******         | ******    | [📊 slides]() · [🎥 video]() |
+|--------|--------------------------------|-----------|-----------|
+
 
 ---
 
