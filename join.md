@@ -47,7 +47,7 @@ We're always looking for presenters! Whether you want to cover a book chapter, s
 - Implementation tutorials
 - Your research projects
 
-[Submit Talk Proposal →](https://forms.gle/...){: .btn .btn-green }
+[Submit Talk Proposal →](https://docs.google.com/forms/d/e/1FAIpQLSdsTHHY_cpIMhkriVgnRGtGaohDS8voorUl442MPfO-2DCgKA/viewform?usp=header){: .btn .btn-green }
 
 {: .highlight }
 **First-time presenters are especially encouraged!** We provide support.
