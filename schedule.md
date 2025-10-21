@@ -17,7 +17,7 @@ nav_order: 2
 ## Fall 2025 Schedule
 
 {: .highlight }
-All sessions are held on **Tuesdays at 5:00 PM EST** via Zoom. [Join our Discord](/join) for meeting links!
+All sessions are held on **Wednestays at 11:30 Madrid Time** via Zoom. [Join our Discord](/join) for meeting links!
 
 
 | Date         | Topic / Chapter                                           | Presenter |
