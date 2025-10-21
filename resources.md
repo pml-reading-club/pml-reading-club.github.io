@@ -33,6 +33,10 @@ All materials from past reading group sessions are available in our [YouTube cha
 - [Book GitHub Repository](https://github.com/probml/pml-book) - Code examples and supplements
 - [Murphy's Webpage](https://www.cs.ubc.ca/~murphyk/) - Author's webpage
 
+### Datalab Past Reading Groups
+- [Intro to ML](https://datalab-icmat.github.io/courses_stats.html#Introduction_to_Machine_Learning)
+- [Bayesian Data Science](https://datalab-icmat.github.io/courses_stats.html#Bayesian_Data_Science)
+
 {: .note }
 > Have a useful resource to share? Open an issue or PR on our [GitHub repository](https://github.com/pml-reading-club)!
 ---

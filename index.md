@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-# Probabilistic ML: Advanced Topics Reading Group
+# Probabilistic ML Reading Group
 {: .fs-9 }
 
 A reading group exploring *Probabilistic Machine Learning: Advanced Topics* by Kevin Murphy.
@@ -16,10 +16,10 @@ A reading group exploring *Probabilistic Machine Learning: Advanced Topics* by K
 
 ## 📖 Our Mission
 
-We aim to create a **supportive space** for researchers, students, and practitioners to learn advanced probabilistic ML together. Whether you're just starting out or are an experienced researcher, you'll find a welcoming community here.
+We aim to create a **supportive space** for researchers, students, and practitioners to learn probabilistic ML together. Whether you're just starting out or are an experienced researcher, you'll find a welcoming community here.
 
 {: .note }
-> Sessions are held weekly and include presentations, discussions, and Q&A. All recordings and materials are shared openly.
+> Sessions are held every other week and include presentations, discussions, and Q&A. All recordings and materials are shared openly.
 
 ---
 
