@@ -22,7 +22,7 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 
 | Date         | Topic / Chapter                                           | Presenter |
 | ------------ | --------------------------------------------------------- | --------- |
-| Nov 5, 2025  | Intro & Probabilistic Inference Overview (Ch. 1-7)    | TBA       |
+| Nov 5, 2025  | Intro & Probabilistic Inference Overview (Ch. 1-7)        |David Ríos |
 | Nov 19, 2025 | Variational Inference (Ch. 10)                            | TBA       |
 | Dec 3, 2025  | Monte Carlo & Hamiltonian Methods (Ch. 12)                | TBA       |
 | Dec 17, 2025 | Sequential Monte Carlo (Ch. 13)                           | TBA       |
