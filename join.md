@@ -22,7 +22,7 @@ We welcome anyone interested in probabilistic ML — regardless of your experien
 ### Discord Community
 Join our active Discord workspace for discussions, questions, and announcements:
 
-[Join Discord →](https://discord.gg/H9ghwuuF){: .btn .btn-purple }
+[Join Discord →](https://discord.gg/G9cztJCvyP){: .btn .btn-purple }
 
 ### Mailing List
 Stay updated with weekly digests and session reminders:
