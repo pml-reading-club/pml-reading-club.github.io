@@ -20,7 +20,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 
 | Date   | Topic                          | Presenter | Materials |
 |--------|--------------------------------|-----------|-----------|
-| ****** | ******         | ******    | [📊 slides]() · [🎥 video]() |
+| 5/11/2025 | Intro & Probabilistic Inference Overview     | David Ríos Insua    | [📊 slides](/assets/slides/PML1.pdf) · [🎥 video](https://youtu.be/DqTjci5Uu3Y?si=142pfCu1QqUfg_zF) |
 |--------|--------------------------------|-----------|-----------|
 
 
