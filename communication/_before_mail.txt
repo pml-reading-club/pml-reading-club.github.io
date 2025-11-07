@@ -1,0 +1,19 @@
+Dear colleagues,
+
+You are invited to the first session of our reading group on Advanced Topics in Probabilistic Machine Learning by Kevin Murphy.
+
+Topic: ............
+Speaker: ............
+When: ............, 11:30 (Madrid time)
+Where: Zoom ............
+
+Abstract:
+............
+
+The session will be recorded and uploaded, and attendees will receive access to the slides afterwards.
+
+🌐 Details: https://pml-reading-club.github.io/
+
+We hope to see you there.
+
+— The PML Reading Group Team
