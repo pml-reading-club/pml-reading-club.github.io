@@ -1,14 +1,14 @@
 {"0": {
     "doc": "Home",
-    "title": "Probabilistic ML: Advanced Topics Reading Group",
-    "content": "A community-led reading group exploring Probabilistic Machine Learning: Advanced Topics by Kevin Murphy. Join Us View Schedule . ",
-    "url": "/#probabilistic-ml-advanced-topics-reading-group",
+    "title": "Probabilistic ML Reading Group",
+    "content": "A reading group exploring Probabilistic Machine Learning: Advanced Topics by Kevin Murphy. Join Us View Schedule . ",
+    "url": "/#probabilistic-ml-reading-group",
     
-    "relUrl": "/#probabilistic-ml-advanced-topics-reading-group"
+    "relUrl": "/#probabilistic-ml-reading-group"
   },"1": {
     "doc": "Home",
     "title": "📖 Our Mission",
-    "content": "We aim to create a supportive space for researchers, students, and practitioners to learn advanced probabilistic ML together. Whether you’re just starting out or are an experienced researcher, you’ll find a welcoming community here. Sessions are held weekly and include presentations, discussions, and Q&amp;A. All recordings and materials are shared openly. ",
+    "content": "We aim to create a supportive space for researchers, students, and practitioners to learn probabilistic ML together. Whether you’re just starting out or are an experienced researcher, you’ll find a welcoming community here. Sessions are held every other week and include presentations, discussions, and Q&amp;A. All recordings and materials are shared openly. ",
     "url": "/#-our-mission",
     
     "relUrl": "/#-our-mission"
@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Home",
     "title": "🙌 About Us",
-    "content": "Organizers: Alice, Bob, Carol . We welcome participants of all levels — from beginners to experts in probabilistic machine learning. Join our community to learn, share, and grow together! . ",
+    "content": "Organizers: . | David Ríos Insua | Pablo García Arce | Daniel Corrales Alonso | Mario Chacón Falcón | . We welcome participants of all levels — from beginners to experts in probabilistic machine learning. Join our community to learn, share, and grow together! . ",
     "url": "/#-about-us",
     
     "relUrl": "/#-about-us"
@@ -43,14 +43,14 @@
   },"6": {
     "doc": "Join Us",
     "title": "Table of Contents",
-    "content": ". | 💬 Connect With Us . | Slack Community | Mailing List | GitHub | . | 🎤 Suggest a Talk | 📋 How to Participate | 🤝 Code of Conduct | . ",
+    "content": ". | 💬 Connect With Us . | Discord Community | Mailing List | GitHub | . | 🎤 Suggest a Talk | 📋 How to Participate | 🤝 Code of Conduct | . ",
     "url": "/join.html#table-of-contents",
     
     "relUrl": "/join.html#table-of-contents"
   },"7": {
     "doc": "Join Us",
     "title": "💬 Connect With Us",
-    "content": "Slack Community . Join our active Slack workspace for discussions, questions, and announcements: . Join Slack → . Mailing List . Stay updated with weekly digests and session reminders: . Subscribe to Mailing List → . GitHub . Contribute to our materials, suggest improvements, or report issues: . Visit GitHub → . ",
+    "content": "Discord Community . Join our active Discord workspace for discussions, questions, and announcements: . Join Discord → . Mailing List . Stay updated with weekly digests and session reminders: . Subscribe to Mailing List → . GitHub . Contribute to our materials, suggest improvements, or report issues: . Visit GitHub → . ",
     "url": "/join.html#-connect-with-us",
     
     "relUrl": "/join.html#-connect-with-us"
@@ -92,21 +92,21 @@
   },"13": {
     "doc": "Resources",
     "title": "Table of Contents",
-    "content": ". | Previous Sessions | Additional Resources . | 📖 Book &amp; Official Materials | . | Have a useful resource to share? Open an issue or PR on our GitHub repository! | . ",
+    "content": ". | Previous Sessions | Additional Resources . | 📖 Book &amp; Official Materials | Datalab Past Reading Groups | . | Have a useful resource to share? Open an issue or PR on our GitHub repository! | . ",
     "url": "/resources.html#table-of-contents",
     
     "relUrl": "/resources.html#table-of-contents"
   },"14": {
     "doc": "Resources",
     "title": "Previous Sessions",
-    "content": "All materials from past reading group sessions are available in our YouTube channel. They are also in greater detail below: . | Date | Topic | Presenter | Materials | . | Oct 10 | Intro + Ch. 1 Overview | Alice | 📊 slides · 🎥 video | . | Oct 17 | Variational Inference (Ch. 10) | Bob | 📊 slides · 🎥 video | . ",
+    "content": "All materials from past reading group sessions are available in our YouTube channel. They are also in greater detail below: . | Date | Topic | Presenter | Materials | . | ** | ** | ** | 📊 slides · 🎥 video | . ",
     "url": "/resources.html#previous-sessions",
     
     "relUrl": "/resources.html#previous-sessions"
   },"15": {
     "doc": "Resources",
     "title": "Additional Resources",
-    "content": "📖 Book &amp; Official Materials . | Probabilistic Machine Learning: Advanced Topics - Official book website | Book GitHub Repository - Code examples and supplements | Murphy’s Webpage - Author’s webpage | . ",
+    "content": "📖 Book &amp; Official Materials . | Probabilistic Machine Learning: Advanced Topics - Official book website | Book GitHub Repository - Code examples and supplements | Murphy’s Webpage - Author’s webpage | . Datalab Past Reading Groups . | Intro to ML - | Bayesian Data Science - | . ",
     "url": "/resources.html#additional-resources",
     
     "relUrl": "/resources.html#additional-resources"
@@ -141,7 +141,7 @@
   },"20": {
     "doc": "Schedule",
     "title": "Fall 2025 Schedule",
-    "content": "All sessions are held on Tuesdays at 5:00 PM EST via Zoom. Join our Slack for meeting links! . | Date | Topic / Chapter | Presenter | . | Nov 5, 2025 | Orientation &amp; Probabilistic Inference Overview (Ch. 7) | TBA | . | Nov 19, 2025 | Variational Inference (Ch. 10) | TBA | . | Dec 3, 2025 | Monte Carlo &amp; Hamiltonian Methods (Ch. 12) | TBA | . | Dec 17, 2025 | Sequential Monte Carlo (Ch. 13) | TBA | . | Jan 14, 2026 | Bayesian Neural Networks (Ch. 17) | TBA | . | Jan 28, 2026 | Gaussian Processes &amp; Structured Prediction (Ch. 18–19) | TBA | . | Feb 11, 2026 | Variational Autoencoders (Ch. 22) | TBA | . | Feb 25, 2026 | Autoregressive Models (Ch. 23) | TBA | . | Mar 11, 2026 | Normalizing Flows (Ch. 24) | TBA | . | Mar 25, 2026 | Energy-Based Models (Ch. 25) | TBA | . | Apr 8, 2026 | Diffusion Models (Ch. 26) | TBA | . | Apr 22, 2026 | Generative Adversarial Networks (Ch. 27) | TBA | . | May 6, 2026 | Latent Variable &amp; Discovery Models (Ch. 29–30) | TBA | . | May 20, 2026 | Causality, Decisions &amp; Reinforcement Learning (Ch. 36–38) | TBA | . Want to present? Suggest a talk — we’d love to hear from you! . ",
+    "content": "All sessions are held on Wednesdays at 11:30 Madrid Time via Zoom. Join our Discord for meeting links! . | Date | Topic / Chapter | Presenter | . | Nov 5, 2025 | Intro &amp; Probabilistic Inference Overview (Ch. 1-7) | David Ríos Insua | . | Nov 19, 2025 | Variational Inference (Ch. 10) | Pablo G. Arce | . | Dec 3, 2025 | Monte Carlo &amp; Hamiltonian Methods (Ch. 12) | Miguel Santos | . | Dec 17, 2025 | Sequential Monte Carlo (Ch. 13) | TBA | . | Jan 14, 2026 | Bayesian Neural Networks (Ch. 17) | TBA | . | Jan 28, 2026 | Gaussian Processes &amp; Structured Prediction (Ch. 18–19) | TBA | . | Feb 11, 2026 | Variational Autoencoders (Ch. 22) | TBA | . | Feb 25, 2026 | Autoregressive Models (Ch. 23) | TBA | . | Mar 11, 2026 | Normalizing Flows (Ch. 24) | TBA | . | Mar 25, 2026 | Energy-Based Models (Ch. 25) | TBA | . | Apr 8, 2026 | Diffusion Models (Ch. 26) | TBA | . | Apr 22, 2026 | Generative Adversarial Networks (Ch. 27) | TBA | . | May 6, 2026 | Latent Variable &amp; Discovery Models (Ch. 29–30) | TBA | . | May 20, 2026 | Causality, Decisions &amp; Reinforcement Learning (Ch. 36–38) | TBA | . Want to present? Suggest a talk — we’d love to hear from you! . ",
     "url": "/schedule.html#fall-2025-schedule",
     
     "relUrl": "/schedule.html#fall-2025-schedule"
