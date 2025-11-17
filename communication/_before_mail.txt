@@ -1,6 +1,6 @@
 Dear colleagues,
 
-You are invited to the first session of our reading group on Advanced Topics in Probabilistic Machine Learning by Kevin Murphy.
+You are invited to the ..... session of our reading group on Advanced Topics in Probabilistic Machine Learning by Kevin Murphy.
 
 Topic: ............
 Speaker: ............
