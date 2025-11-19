@@ -21,7 +21,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 | Date   | Topic                          | Presenter | Materials |
 |--------|--------------------------------|-----------|-----------|
 | 5/11/2025 | Intro & Probabilistic Inference Overview     | David Ríos Insua    | [📊 slides](/assets/slides/PML1.pdf) · [🎥 video](https://youtu.be/DqTjci5Uu3Y?si=142pfCu1QqUfg_zF) |
-| 19/11/2025 | Variational Inference     | Pablo G. Arce    | [📊 slides](/assets/slides/PML2.pdf) · [🎥 video](https://youtu.be/30Jme0mTJVk) · [💻 code](/assets/code/session2.ipynb) |
+| 19/11/2025 | Variational Inference     | Pablo G. Arce    | [📊 slides](/assets/slides/PML2.pdf) · [🎥 video](https://youtu.be/30Jme0mTJVk) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session2.ipynb) |
 |--------|--------------------------------|-----------|-----------|
 
 
