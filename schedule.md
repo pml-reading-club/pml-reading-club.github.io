@@ -19,6 +19,7 @@ nav_order: 2
 {: .highlight }
 All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our Discord](/join) for meeting links!
 
+[Add to Google Calendar](https://calendar.google.com/calendar/u/1?cid=cGFibG8uZ2FyY2lhQGljbWF0LmVz){: .btn .btn-blue }
 
 | Date         | Topic / Chapter                                           | Presenter |
 | ------------ | --------------------------------------------------------- | --------- |
