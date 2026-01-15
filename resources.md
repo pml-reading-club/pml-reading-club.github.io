@@ -24,6 +24,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 | 19/11/2025 | Variational Inference     | Pablo G. Arce    | [📊 slides](/assets/slides/PML2.pdf) · [🎥 video](https://youtu.be/30Jme0mTJVk) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session2.ipynb) |
 | 3/12/2025 | Markov chain Monte Carlo | Miguel Santos | [📊 slides](/assets/slides/PML3.pdf) · [🎥 video](https://youtu.be/1QCJGJFxN5w) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session3.ipynb) |
 | 17/12/2025 | Sequential Monte Carlo | Mario Chacón-Falcón | [📊 slides](/assets/slides/PML4.pdf) · [🎥 video](https://youtu.be/Vd5Lo-RRUYw) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session4.ipynb) |
+| 14/01/2025 | Fusing Variational Inference and Markov Chain Monte Carlo | Max Hird | [📊 slides](/assets/slides/VI+MCMC.pdf) · [🎥 video](https://youtu.be/2z4Q_TAN6-Y) |
 |--------|--------------------------------|-----------|-----------|
 
 
