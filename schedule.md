@@ -30,7 +30,7 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 | Jan 14, 2026 | VI + MCMC  (Special Session)                              | [Max Hird](https://maxhhird.github.io) |
 | Jan 21, 2026 | Bayesian Neural Networks (Ch. 17)                         | [Daniel Corrales Alonso](https://danielcorralesalonso.github.io/)       |
 | Feb 4, 2026  | Beyond the i.i.d. assumption: Distributional shifts (Ch. 19)   | [Carlos G. Meixide](https://www.meixide.gal/)       |
-| Feb 18, 2026 | Gaussian Processes & Structured Prediction (Ch. 18)                         | TBA       |
+| Feb 18, 2026 | Gaussian Processes (Ch. 18)                         | [Simón Rodríguez Santana](https://www.iit.comillas.edu/personas/srsantana)        |
 | Mar 4, 2026  | Generative models: Variational Autoencoders and Autoregressive Models (Ch. 20-22)                         | TBA       |
 | Mar 18, 2026 | Normalizing Flows (Ch. 23)                                | TBA       |
 | Apr 1, 2026  | Energy-Based Models (Ch. 24)                              | TBA       |

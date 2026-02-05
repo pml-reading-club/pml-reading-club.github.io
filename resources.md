@@ -26,6 +26,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 | 17/12/2025 | Sequential Monte Carlo | Mario Chacón-Falcón | [📊 slides](/assets/slides/PML4.pdf) · [🎥 video](https://youtu.be/Vd5Lo-RRUYw) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session4.ipynb) |
 | 14/01/2025 | Fusing Variational Inference and Markov Chain Monte Carlo | Max Hird | [📊 slides](/assets/slides/VI+MCMC.pdf) · [🎥 video](https://youtu.be/2z4Q_TAN6-Y) |
 | 21/01/2025 | Bayesian Neural Networks | Daniel Corrales | [📊 slides](/assets/slides/PML6.pdf) · [🎥 video](https://youtu.be/gM8Wwkc3sUI) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session6.ipynb) |
+| 04/02/2025 | Beyond the i.i.d. assumption. Distributional shifts | Carlos García Meixide | [📊 slides](/assets/slides/PML7.pdf) · [🎥 video](https://youtu.be/wg3zUng12p0) |
 |--------|--------------------------------|-----------|-----------|
 
 
