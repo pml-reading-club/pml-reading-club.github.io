@@ -31,12 +31,12 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 | Jan 21, 2026 | Bayesian Neural Networks (Ch. 17)                         | [Daniel Corrales Alonso](https://danielcorralesalonso.github.io/)       |
 | Feb 4, 2026  | Beyond the i.i.d. assumption: Distributional shifts (Ch. 19)   | [Carlos G. Meixide](https://www.meixide.gal/)       |
 | Feb 18, 2026 | Gaussian Processes (Ch. 18)                         | [Simón Rodríguez Santana](https://www.iit.comillas.edu/personas/srsantana)        |
-| Mar 4, 2026  | Generative models: Variational Autoencoders and Autoregressive Models (Ch. 20-22)                         | TBA       |
-| Mar 18, 2026 | Normalizing Flows (Ch. 23)                                | TBA       |
-| Apr 1, 2026  | Energy-Based Models (Ch. 24)                              | TBA       |
+| Mar 4, 2026  | Generative models: Variational Autoencoders and Autoregressive Models (Ch. 20-22)                         | [David Ríos Insua](https://www.davidriosinsua.es)       |
+| Mar 18, 2026 | Normalizing Flows (Ch. 23)                                | [Roi Naveiro](https://roinaveiro.github.io/)       |
+| Apr 1, 2026  | Energy-Based Models (Ch. 24)                              | [Víctor Gallego](https://github.com/vicgalle)       |
 | Apr 15, 2026 | Diffusion Models (Ch. 25)                                 | TBA       |
 | Apr 29, 2026 | State-Space Models (Ch.29)               | TBA       |
-| May 13, 2026 | Decisions & Reinforcement Learning (Ch. 34–35)      | TBA       |
+| May 13, 2026 | Decisions (Ch. 34)      | TBA       |
 | May 27, 2026 | Causality (Ch. 36)   | TBA       |
 
 
