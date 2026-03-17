@@ -28,6 +28,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 | 21/01/2026 | Bayesian Neural Networks | Daniel Corrales | [📊 slides](/assets/slides/PML6.pdf) · [🎥 video](https://youtu.be/gM8Wwkc3sUI) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session6.ipynb) |
 | 04/02/2026 | Beyond the i.i.d. assumption. Distributional shifts | Carlos García Meixide | [📊 slides](/assets/slides/PML7.pdf) · [🎥 video](https://youtu.be/wg3zUng12p0) |
 | 18/02/2026 | Gaussian Processes | Simón Rodríguez Santana | [📊 slides](/assets/slides/PML8.pdf) · [🎥 video](https://youtu.be/D7OBQEUELoo) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session8.ipynb) |
+| 11/03/2026 | Generative models: Variational Autoencoders and Autoregressive Models | David Ríos Insua | [📊 slides](/assets/slides/PML9.pdf) · [🎥 video](https://www.youtube.com/watch?v=GjFcIp63idQ&t=674s)|
 |--------|--------------------------------|-----------|-----------|
 
 
