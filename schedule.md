@@ -34,7 +34,7 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 | Mar 11, 2026  | Generative models: Variational Autoencoders and Autoregressive Models (Ch. 20-22)                         | [David Ríos Insua](https://www.davidriosinsua.es)       |
 | Mar 25, 2026 | Normalizing Flows (Ch. 23)                                | [Roi Naveiro](https://roinaveiro.github.io/)       |
 | Apr 8, 2026  | Energy-Based Models (Ch. 24)                              | [Víctor Gallego](https://github.com/vicgalle)       |
-| Apr 15, 2026 | Diffusion Models (Ch. 25)                                 | TBA       |
+| Apr 15, 2026 | Diffusion Models (Ch. 25)                                 | [Alberto Suárez](https://scholar.google.com/citations?user=4X4znJIAAAAJ&hl=en&oi=ao)       |
 | Apr 29, 2026 | State-Space Models (Ch.29)               | TBA       |
 | May 13, 2026 | Decisions (Ch. 34)      | TBA       |
 | May 27, 2026 | Causality (Ch. 36)   | TBA       |
