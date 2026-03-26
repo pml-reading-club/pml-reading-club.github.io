@@ -1,0 +1,13 @@
+name: satellite-sbi-minimal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - sbi>=0.25,<0.26
+  - pytorch
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
