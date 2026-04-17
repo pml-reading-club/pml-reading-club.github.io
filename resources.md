@@ -31,6 +31,7 @@ All materials from past reading group sessions are available in our [YouTube cha
 | 11/03/2026 | Generative models: Variational Autoencoders and Autoregressive Models | David Ríos Insua | [📊 slides](/assets/slides/PML9.pdf) · [🎥 video](https://www.youtube.com/watch?v=GjFcIp63idQ&t=674s)|
 | 25/03/2026 | Normalizing Flows | Roi Naveiro | [📊 slides](/assets/slides/PML10/NFs_bundle/NFs.html) · [🎥 video](https://youtu.be/ge6rwAq_DLI) · [💻 code](https://github.com/pml-reading-club/pml-reading-club.github.io/blob/main/assets/code/session10_normalizingflows) |
 | 08/04/2026 | Energy-based models | Victor Gallego | [📊 slides](/assets/slides/PML11.pdf) · [🎥 video](https://youtu.be/-Q1vboI-IX4)|
+| 15/04/2026 | Diffusion models | Alberto Suarez | [📊 slides](/assets/slides/PML12.pdf) · [🎥 video](https://youtu.be/4uJ9Y_VFQLo)|
 |--------|--------------------------------|-----------|-----------|
 
 
