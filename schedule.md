@@ -35,8 +35,8 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 | Mar 25, 2026 | Normalizing Flows (Ch. 23)                                | [Roi Naveiro](https://roinaveiro.github.io/)       |
 | Apr 8, 2026  | Energy-Based Models (Ch. 24)                              | [Víctor Gallego](https://github.com/vicgalle)       |
 | Apr 15, 2026 | Diffusion Models (Ch. 25)                                 | [Alberto Suárez](https://scholar.google.com/citations?user=4X4znJIAAAAJ&hl=en&oi=ao)       |
-| Apr 29, 2026 | State-Space Models (Ch.29)               | TBA       |
-| May 13, 2026 | Decisions (Ch. 34)      | TBA       |
+| Apr 29, 2026 | State-Space Models (Ch.29)               | [Bruno Flores](https://www.linkedin.com/in/bruno-flores-barrio-470a47126/)        |
+| May 13, 2026 | Decisions (Ch. 34)      | [José Manuel Camacho Rodríguez](https://scholar.google.com/citations?user=u1mMlucAAAAJ&hl=es&oi=ao)      |
 | May 27, 2026 | Causality (Ch. 36)   | TBA       |
 
 
