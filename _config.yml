@@ -10,6 +10,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+exclude:
+  - assets/slides/PML10/NFs_bundle/NFs_files/libs/revealjs/plugin/reveal-chalkboard/README.md
+
 # Theme Customization
 color_scheme: light
 search_enabled: true
