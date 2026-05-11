@@ -6,8 +6,6 @@ format:
     title-slide: false
     html-math-method: katex
     auto-scale: true
-    chalkboard:
-      buttons: false
     preview-links: auto
     css: styles.css
     footer: '[https://roinaveiro.github.io/](https://roinaveiro.github.io/)'
