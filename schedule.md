@@ -37,7 +37,7 @@ All sessions are held on **Wednesdays at 11:30 Madrid Time** via Zoom. [Join our
 | Apr 15, 2026 | Diffusion Models (Ch. 25)                                 | [Alberto Suárez](https://scholar.google.com/citations?user=4X4znJIAAAAJ&hl=en&oi=ao)       |
 | Apr 29, 2026 | State-Space Models (Ch.29)               | [Bruno Flores](https://www.linkedin.com/in/bruno-flores-barrio-470a47126/)        |
 | May 13, 2026 | Decisions (Ch. 34)      | [José Manuel Camacho Rodríguez](https://scholar.google.com/citations?user=u1mMlucAAAAJ&hl=es&oi=ao)      |
-| June 3, 2026 | Causality (Ch. 36)   | TBA       |
+| June 3, 2026 | Causality (Ch. 36)   | [Fátima Sánchez Cabo](https://scholar.google.com/citations?user=PMuQA4AAAAAJ&hl=en&oi=ao)      |
 
 
 Want to present? [Suggest a talk](/join) — we'd love to hear from you!
