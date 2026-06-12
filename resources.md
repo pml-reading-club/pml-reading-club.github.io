@@ -33,6 +33,8 @@ All materials from past reading group sessions are available in our [YouTube cha
 | 08/04/2026 | Energy-based models | Victor Gallego | [📊 slides](/assets/slides/PML11.pdf) · [🎥 video](https://youtu.be/-Q1vboI-IX4)|
 | 15/04/2026 | Diffusion models | Alberto Suarez | [📊 slides](/assets/slides/PML12.pdf) · [🎥 video](https://youtu.be/4uJ9Y_VFQLo)|
 | 29/04/2026 | State Space Models | Bruno Flores | [📊 slides](/assets/slides/PML13.pdf) · [🎥 video](https://www.youtube.com/watch?v=U4Mij0rdVTI&t=3429s)|
+| 13/05/2026 | Decisions | José Manuel Camacho | [📊 slides](/assets/slides/PML14.pdf) · [🎥 video](https://www.youtube.com/watch?v=tN8lU0X8Prc&t=2459s)|
+| 10/06/2026 | Causality | Fátima Sánchez Cabo | [📊 slides](/assets/slides/PML15.pdf) · [🎥 video](https://www.youtube.com/watch?v=sgIdwhTBx8o)|
 |--------|--------------------------------|-----------|-----------|
 
 
